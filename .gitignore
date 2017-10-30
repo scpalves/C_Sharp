@@ -1,0 +1,11 @@
+*.cs
+*.pdb
+*.exe
+*.txt
+*.cache
+*.config
+*.csproj
+*.sln
+*.ide
+*.lock
+*.suo
